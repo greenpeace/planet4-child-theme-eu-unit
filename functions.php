@@ -13,5 +13,5 @@ function enqueue_child_styles() {
 }
 
 add_filter( 'locale', function() {
-	return 'en';
+	return 'en-EU';
 });
